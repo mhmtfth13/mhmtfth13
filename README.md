@@ -11,7 +11,7 @@ Automating financial workflows with N8N and Python.
 Creating efficient solutions with Excel VBA for financial reporting.
 <br>
 <h3 align="left">Currently:</h3>
-I am participating in Patika.dev .Net Bootcamp to expand my development skills.
+I am participating in  .Net Backend  Bootcamp Patika.dev to expand my development skills.
 <br>
 <br>
 <br>
