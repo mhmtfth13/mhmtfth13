@@ -25,7 +25,7 @@ I am participating in  .Net Backend  Bootcamp Patika.dev to expand my developmen
 
 - 📫 How to reach me **mhmtfthaydin@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1qgYD4vu0ILHVqZtZXJt4vccE0TcrQ5vy/edit?usp=sharing&ouid=109136115213754030000&rtpof=true&sd=true](https://docs.google.com/document/d/1qgYD4vu0ILHVqZtZXJt4vccE0TcrQ5vy/edit?usp=sharing&ouid=109136115213754030000&rtpof=true&sd=true)
+- 📄 Know about my experiences [[https://docs.google.com/document/d/1qgYD4vu0ILHVqZtZXJt4vccE0TcrQ5vy/edit?usp=sharing&ouid=109136115213754030000&rtpof=true&sd=true](https://docs.google.com/document/d/1qgYD4vu0ILHVqZtZXJt4vccE0TcrQ5vy/edit?usp=sharing&ouid=109136115213754030000&rtpof=true&sd=true](https://docs.google.com/document/d/1qgYD4vu0ILHVqZtZXJt4vccE0TcrQ5vy/edit?usp=sharing&ouid=109136115213754030000&rtpof=true&sd=true))
 
 - ⚡ Let's play chess **Challange me! https://lichess.org/@/mhmtfthaydin**
 
