@@ -12,7 +12,7 @@ Creating efficient solutions with Excel VBA for financial reporting.
 <br>
 <br>
 <br>
--  I regularly write articles on [https://medium.com/@mhmtfthaydin](https://medium.com/@mhmtfthaydin)
+-  I regularly write articles on [https://medium.com/@mhmtfthaydin]
 
 -  How to reach me **mhmtfthaydin@gmail.com**
 
