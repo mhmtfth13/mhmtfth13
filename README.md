@@ -12,11 +12,11 @@ Creating efficient solutions with Excel VBA for financial reporting.
 <br>
 <br>
 <br>
-- 📝 I regularly write articles on [https://medium.com/@mhmtfthaydin](https://medium.com/@mhmtfthaydin)
+-  I regularly write articles on [https://medium.com/@mhmtfthaydin](https://medium.com/@mhmtfthaydin)
 
-- 📫 How to reach me **mhmtfthaydin@gmail.com**
+-  How to reach me **mhmtfthaydin@gmail.com**
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1qgYD4vu0ILHVqZtZXJt4vccE0TcrQ5vy/edit?usp=sharing&ouid=109136115213754030000&rtpof=true&sd=true](https://docs.google.com/document/d/1qgYD4vu0ILHVqZtZXJt4vccE0TcrQ5vy/edit?usp=sharing&ouid=109136115213754030000&rtpof=true&sd=true](https://docs.google.com/document/d/1qgYD4vu0ILHVqZtZXJt4vccE0TcrQ5vy/edit?usp=sharing&ouid=109136115213754030000&rtpof=true&sd=true))
+-  Know about my experiences [[https://docs.google.com/document/d/1qgYD4vu0ILHVqZtZXJt4vccE0TcrQ5vy/edit?usp=sharing&ouid=109136115213754030000&rtpof=true&sd=true](https://docs.google.com/document/d/1qgYD4vu0ILHVqZtZXJt4vccE0TcrQ5vy/edit?usp=sharing&ouid=109136115213754030000&rtpof=true&sd=true](https://docs.google.com/document/d/1qgYD4vu0ILHVqZtZXJt4vccE0TcrQ5vy/edit?usp=sharing&ouid=109136115213754030000&rtpof=true&sd=true))
 
 - ⚡ Let's play chess **Challange me! https://lichess.org/@/mhmtfthaydin**
 
