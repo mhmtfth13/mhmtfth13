@@ -1,6 +1,5 @@
 <h1> Hello There </h1>
 
-I'm a Finance Specialist at Ihlas Pazarlama A.S.
 I am focused on developing data solutions and process automation for financial operations.
 
 <h3 align="left">What I do: </h3>
