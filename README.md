@@ -1,6 +1,6 @@
 <h1> Hello There </h1>
 
-I am focused on developing data solutions and process automation for financial operations.
+I am focused on developing data solutions and process automation for financial operations. Nowadays, I am focusing on the Rust programming language
 
 <h3 align="left">What I do: </h3>
 Building user-friendly interfaces for data visualization and analysis using C#, SQL, and Python.
